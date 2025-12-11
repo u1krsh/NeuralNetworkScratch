@@ -11,7 +11,7 @@ plt.plot(x, y)
 
 ##close enough point
 p2_delta = 0.0001
-x1 = 200
+x1 = 2
 x2 = x1+p2_delta
 
 y1 = f(x1)
